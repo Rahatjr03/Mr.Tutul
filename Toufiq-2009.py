@@ -399,13 +399,13 @@ logo = ("""\033[1;32m
                                             \033
 __________________×______________________
   
-  Auther   :  Mr. TUTUL
+  Auther   :  TOUFIQ AHMED🔥
  
-  Github   :  Tutul75o
+  Github   :  Toufiq01
 
-  Facebook: Tutul Mr.    (50% Ok Account Open Just Now)❤️
-
-  WhatsApp: 01608843956
+  Facebook: TOUFIQ AHMED     (70% Ok Account Open Just Now Open)❤️
+ 
+  Whatapps: +8801812027446
 __________________×______________________\033[1;37m""")
 
 class Main:
